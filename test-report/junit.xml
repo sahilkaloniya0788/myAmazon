@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="21.199904000000004">
+<testsuite name="amazon\homepage.spec.ts" timestamp="2024-03-11T14:04:49.542Z" hostname="chrome" tests="5" failures="0" skipped="0" time="7.631" errors="0">
+<testcase name="Automate the homepage the amazon. › TC_AMZN_001 &gt;&gt;&gt; VERIFY THE AMAZON HOMEPAGE LOGO" classname="amazon\homepage.spec.ts" time="0.117">
+</testcase>
+<testcase name="Automate the homepage the amazon. › TC_AMZN_002 &gt;&gt;&gt; VERIFYING THE UPDATE LOCATION BUTTON" classname="amazon\homepage.spec.ts" time="1.203">
+</testcase>
+<testcase name="Automate the homepage the amazon. › TC_AMZN_003 &gt;&gt;&gt; UPDATING THE LOCATION ON HOMEPAGE" classname="amazon\homepage.spec.ts" time="3.172">
+</testcase>
+<testcase name="Automate the homepage the amazon. › TC_AMZN_004 &gt;&gt;&gt; CHANGING THE CATEGORIES FROM THE ALL CATEGORY DROPDOWN" classname="amazon\homepage.spec.ts" time="1.49">
+</testcase>
+<testcase name="Automate the homepage the amazon. › TC_AMZN_005 &gt;&gt;&gt; SEARCHING ANY PRODUCT USING SEARCH BAR" classname="amazon\homepage.spec.ts" time="1.649">
+</testcase>
+</testsuite>
+</testsuites>
